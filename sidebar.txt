@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[slc:home|Door43 (slc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-slc|d43-slc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-slc/archive/master.zip|d43-slc.zip]]
+
+**Recent Changes**
+{{changes>ns = slc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/slc|Ethnologue data]]
+
